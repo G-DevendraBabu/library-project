@@ -1,0 +1,33 @@
+*
+{
+    background-color: black;
+    color:white;
+}
+input
+{
+    color: white;
+    
+    right: 10px;
+}
+/* .inp2
+{
+    display: flex;
+    flex-direction: row;
+}  */
+#issue_btn
+{
+    background-color: white;
+    color: black;
+    padding:10px;
+}
+table
+{
+    padding-bottom: 300px;
+    border-color: white;
+}
+td
+{
+    padding:10px;
+    padding-right: 40px;
+    /* padding-bottom: 100px; */
+}
